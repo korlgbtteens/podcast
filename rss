@@ -58,11 +58,11 @@
 
 <itunes:image href="http://i.imgur.com/HxUqaHw.jpg" />
 
-<enclosure url="https://archive.org/download/lgbtteensright_gmail_1/3회차.mp3" length="13841504" type="audio/mpeg" />
+<enclosure url="http://archive.org/download/lgbtteensright_gmail_1/3회차.mp3" length="13841504" type="audio/mpeg" />
 
 <guid>https://archive.org/download/lgbtteensright_gmail_1/3회차.mp3</guid>
 
-<pubDate>Sat, 2 Jul 2016 15:00:00 +0900</pubDate>
+<pubDate>Sat, 2 Jul 2016 17:00:00 GMT</pubDate>
 
 <itunes:duration>09:37</itunes:duration>
 
@@ -84,11 +84,11 @@
 
 <itunes:image href="http://i.imgur.com/HxUqaHw.jpg" />
 
-<enclosure url="https://archive.org/download/lgbtteensright_gmail_1/2회차.mp3" length="12896864" type="audio/mpeg" />
+<enclosure url="http://archive.org/download/lgbtteensright_gmail_1/2회차.mp3" length="12896864" type="audio/mpeg" />
 
 <guid>https://archive.org/download/lgbtteensright_gmail_1/2회차.mp3</guid>
 
-<pubDate>Sat, 25 Jun 2016 15:00:00 +0900</pubDate>
+<pubDate>Sat, 2 Jul 2016 16:00:00 GMT</pubDate>
 
 <itunes:duration>08:57</itunes:duration>
 
@@ -110,11 +110,11 @@
 
 <itunes:image href="http://i.imgur.com/HxUqaHw.jpg" />
 
-<enclosure url="https://archive.org/download/lgbtteensright_gmail_1/1회차.mp3" length="17221472" type="audio/mpeg" />
+<enclosure url="http://archive.org/download/lgbtteensright_gmail_1/1회차.mp3" length="17221472" type="audio/mpeg" />
 
 <guid>https://archive.org/download/lgbtteensright_gmail_1/1회차.mp3</guid>
 
-<pubDate>Sat, 18 Jun 2016 15:00:00 +0900<pubDate>
+<pubDate>Sat, 2 Jul 2016 15:00:00 GMT</pubDate>
 
 <itunes:duration>11:58</itunes:duration>
 
@@ -122,4 +122,4 @@
 
 </channel>
 
-</rss>
+</rss>>
